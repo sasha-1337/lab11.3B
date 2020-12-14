@@ -1,0 +1,10 @@
+﻿  lab_11_3_B.cpp
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(195,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(219,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(228,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(238,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(247,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(250,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(252,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+D:\Student\lab11.3B\lab11.3B\lab_11_3_B.cpp(254,19): warning C4244: аргумент: преобразование "double" в "std::streamoff", возможна потеря данных
+  lab11.3B.vcxproj -> D:\Student\lab11.3B\Debug\lab11.3B.exe
